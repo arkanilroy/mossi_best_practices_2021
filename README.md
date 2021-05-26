@@ -13,7 +13,12 @@ This repository is currently under development. To do a development install, dow
 
 This package requires the following packages:
 -numpy
--matpotlib
+-matplotlib
+
+Features should be developed on branches. To create and swutch to a branch, use command:
+`git checkout -b new_branch_name`
+To switch to an existing branch, use:
+`git checkout branch_name`
 
 ### Copyright
 
