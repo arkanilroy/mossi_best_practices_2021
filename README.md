@@ -11,6 +11,10 @@ This repository is currently under development. To do a development install, dow
 
 `pip install -e.`
 
+This package requires the following packages:
+-numpy
+-matpotlib
+
 ### Copyright
 
 Copyright (c) 2021, Arkanil Roy
